@@ -1,4 +1,4 @@
--- /kata/590cc86f7557c0494000007e
+-- https://www.codewars.com/kata/590cc86f7557c0494000007e
 INSERT INTO participants ("name", age)
 VALUES ('Ed', 31);
 

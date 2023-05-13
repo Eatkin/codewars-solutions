@@ -1,4 +1,4 @@
--- /kata/57eae65a4321032ce000002d
+-- https://www.codewars.com/kata/57eae65a4321032ce000002d
 DO $$ 
 BEGIN
   IF NOT EXISTS (SELECT 1 FROM information_schema.columns WHERE table_name = 'fakebin' AND column_name = 'res') THEN

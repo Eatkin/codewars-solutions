@@ -1,4 +1,4 @@
-# /kata/54b724efac3d5402db00065e
+# https://www.codewars.com/kata/54b724efac3d5402db00065e
 from preloaded import MORSE_CODE
 
 def decode_morse(morse_code):
